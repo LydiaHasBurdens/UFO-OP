@@ -1,0 +1,203 @@
+1865  The_Great_Airships                                   USA            1   0   1   0
+1878  Denison,_Texas_Daylight_UFO                          USA            0   0   0   0
+1897  The_Aurora,_Texas_Crash                              USA            1   0   1   0
+1930  Alien_Picture_from_Alaska                            Alaska         0   1   1   0
+1937  Discovery_of_the_Dropa_Discs                         China          0   0   0   0
+1939  Alien_Bodies_Confirmed_(Cordell Hull)                USA            0   0   1   0
+1941  Missouri_Crash_&_Retrieval                           USA            1   1   1   0
+1942  The_Battle_of_Los_Angeles                            USA            1   1   0   0
+1944  World_War_II_Foo-Fighters                            Europe         0   1   0   0
+1945  Lt._Gorman_Chases_a_UFO                              USA            0   0   0   0
+1947  The_Kenneth_Arnold_Sighting                          USA            0   0   0   0
+1947  Malta,_Alien_Entities_Seen_on_Watercraft             Malta          0   0   1   0
+1947  Pilot_Sees_Six_UFOs,_Morristown,_NJ                  USA            1   1   0   0
+1947  The_Roswell,_New_Mexico_Crash                        USA            1   1   1   0
+1948  The_Death_of_Thomas_Mantell                          USA            0   0   0   0
+1948  The_Aztec,_New_Mexico_Crash                          USA            1   0   0   0
+1948  The_Chiles-Whitted_Sighting                          USA            1   0   0   0
+1949  Norwood,_Ohio_Searchlight_Incident                   USA            0   1   0   0
+1950  Dr._Botta_Enters_Flying_Saucer                       S Amer         1   0   1   0
+1950  The_Trent_UFO_Photographs                            USA            0   1   0   0
+1950  The_Great_Falls,_Montana_Film                        USA            0   1   0   0
+1951  Gander,_Newfoundland_UFO_Case                        Canada         1   0   0   0
+1951  The_White_Sands,_NM_Radar_Case                       USA            1   0   0   0
+1951  The_Lubbock,_Texas_Lights                            USA            0   1   0   0
+1951  The_Fort_Monmouth_UFO_Incident                       USA            1   0   0   0
+1952  San_Jose,_CA_Scientist_Reports_Disc                  USA            1   0   0   0
+1952  Nash-Fortenberry_UFO_Sighting                        USA            1   0   0   0
+1952  The_Tremonton,_Utah_Color_Film                       USA            0   1   0   0
+1952  Customs_Inspector_films_large_UFO                    Peru           1   1   0   0
+1952  Washington,_D.C._Sightings                           USA            0   1   0   0
+1952  Coast_Guard_UFO_Photograph                           USA            0   1   0   0
+1952  Australian_Seafury_Incident                          Australia      1   0   0   0
+1952  The_Florida_Scoutmaster_Encounter                    USA            1   0   0   0
+1952  Navy_aviators_encounter_UFO                          Gnland         0   0   0   0
+1952  The_Operation_Mainbrace_Sightings                    Den/Nor        0   0   0   0
+1952  The_Flatwoods,_Virginia_Entity                       USA            1   0   0   0
+1952  Gulf_of_Mexico_UFO_Encounter                         G/Mexico       0   0   0   0
+1953  The_Arizona_UFO_Crash                                USA            1   0   1   0
+1953  The_Ellworth_Air_Force_Base_Incident                 USA            0   0   0   0
+1953  The_Tom_Drury_UFO_Footage                            N Guinea       0   1   0   0
+1953  Pilot_Lost_in_UFO_chase_(Felix Moncla)               USA            0   0   0   0
+1954  UFO_Landing_in_France                                France         1   1   1   0
+1955  UFO_encounter_at_Bexleyheath                         U K            0   0   0   0
+1955  Kelly-Hopkinsville_Alien_Encounter                   USA            1   0   1   0
+1955  U.S_Senators_see_flying_discs_in_Russia              Russia         0   0   0   0
+1956  Bentwaters_AFB_UFO_Encounter                         U K            1   0   0   0
+1956  Minot_Air_Force_Base_Radar/Visual_Case               USA            1   0   0   0
+1957  The_RB-47_UFO_Incident                               USA            1   0   0   0
+1957  Ubatuba_UFO_Fragments                                Brazil         1   0   0   0
+1957  UFOs/nuclear_test                                    Tasmania       0   0   0   0
+1957  The_Ring-Cloud_UFO_photos                            USA            0   0   0   0
+1957  Villas-Boas_Encounter                                Brazil         1   0   1   1
+1957  The_Levelland,_Texas_Landings                        USA            0   0   0   0
+1957  Madison,_Ohio,_Kuhn/Dog_Case                         USA            1   0   0   0
+1958  The_Trinidade_Island_Photographs                     Brazil         0   1   0   0
+1958  Monon_Railroad_UFO_Incident                          USA            1   0   0   0
+1959  Disappearance_of_Private_Gerry_Irwin                 USA            1   0   0   0
+1959  The_Papua,_New_Guinea_Sightings                      N Guinea       1   0   1   0
+1959  Mushroom_UFO/Portland,_Oregon                        USA            0   0   0   0
+1960  Red_Bluff_UFO_Incident                               USA            1   0   0   0
+1961  Betty_and_Barney_Hill_Abduction                      USA            1   0   1   1
+1962  UFO_Crashes_in_Las_Vegas                             USA            1   0   0   0
+1963  The_Willow_Grove_Encounter                           Australia      1   0   0   0
+1963  Wayne_City_UFO/Car_Chase                             USA            0   0   0   0
+1964  Socorro,_New_Mexico_(Zamora)                         USA            1   0   1   0
+1964  UFO_Landing,_New_York_(Wilcox)                       USA            1   0   1   0
+1964  Vehicle_UFO,_Lavonia,_Georgia                        USA            1   0   0   0
+1964  UFO_Filmed_at_Vandenburg_AFB                         USA            1   1   0   0
+1964  Alien_Encounter_at_Cisco_County                      USA            1   0   1   0
+1965  Florida_Everglades_Encounter_(Flynn)                 USA            1   0   0   0
+1965  Valensole,_France_Landing_(Masse)                    France         1   0   1   0
+1965  The_Australian_Beach_Landing                         Australia      1   0   0   0
+1965  Sherman,_Texas_UFO_Photograph                        USA            1   1   0   0
+1965  UFO_Lands_Pretoria,_South Africa                     S Africa       1   0   0   0
+1965  Exeter,_New_Hampshire_Sightings                      USA            1   0   0   0
+1965  UFO_Illuminates_Police_Car                           USA            1   0   0   0
+1965  The_Kecksburg,_Pennsylvania_Crash                    USA            1   0   0   0
+1966  The_USS_Tiru_Encounter                               USA            0   0   0   0
+1966  The_Tulley_Saucer_Nest                               Australia      1   0   0   0
+1966  Michigan_Sheriff_Confirms_UFO                        USA            0   0   0   0
+1966  Portage_County_UFO_Chase                             USA            1   0   0   0
+1966  The_Mothman_Legend                                   USA            1   0   0   0
+1967  The_Betty_Andreasson_Abduction                       USA            1   0   1   1
+1967  Falcon_Lake_(Michalak)_Encounter                     Canada         1   0   0   0
+1967  UFO_Encounter_at_Ontario_Lake                        Canada         0   0   0   0
+1967  The_Shag_Harbor_Crash                                N Scotia       1   0   0   0
+1967  Patrolman_Herbert_Schirmer_abducted                  USA            1   0   1   1
+1968  Hanbury,U.K_Entities_in_UFO_Domen                    U K            1   0   1   0
+1969  The_Russian_Crash,_Sverdlovsky                       Russia         1   1   1   0
+1969  The_Arrowhead_UFO_Encounter                          GOM            0   0   1   0
+1969  The_Buff_Ledge_Camp_Abduction                        USA            1   0   1   1
+1970  Cowichan_District_Hospital_Sighting                  Canada         1   0   1   0
+1970  RAF_Binbrook_UFO_Encounter                           USA            1   0   0   0
+1971  UFOs_photographed_in_Austria                         Austria        0   1   0   0
+1971  Holloman_AFB_UFO_landing_film                        USA            0   1   1   0
+1971  Bizarre_UFO_Encounter/Uranium_Mine                   USA            1   0   0   0
+1971  Costa_Rican_UFO_Photograph                           Costa R.       0   1   0   0
+1971  The_Delphos,_Kansas_Glowing_Ring                     USA            1   0   0   0
+1972  McChord_UFO_Encounter                                USA            1   0   0   0
+1973  McAlester,_Oklahoma,_Plane/UFO                       USA            1   1   0   0
+1973  The_Judy_Doraty_Abduction                            USA            1   0   1   1
+1973  Princeton,_Indiana_UFO_Sighting                      USA            0   0   0   0
+1973  The_Alabama_Tin_Foil_Alien                           USA            1   1   1   0
+1973  Hicksville,_Ohio_Erratic_Lights                      USA            1   0   0   0
+1973  Dayton,_Ohio_15_UFO_Sightings                        USA            0   0   0   0
+1973  UFO_Stops_Train                                      USA            0   0   0   0
+1973  Coyne_Helicopter/UFO_Encounter                       USA            0   0   0   0
+1973  Pascagoula,_Mississippi_Abduction                    USA            1   0   1   1
+1973  Lyndia_Morel_UFO_Encounter                           USA            1   0   1   0
+1974  The_Wales_UFO_Crash                                  Wales          1   0   0   0
+1974  Disk_crash_in_Chihuahua,_Mexico                      Mexico         1   0   0   0
+1974  Domed_Saucers_create_Crop_Circles                    Canada         1   0   0   0
+1975  The_Billy_Meier_Videos                               Switz          1   1   1   0
+1975  Sergeant_Charles_L.Moody_Abduction                    USA            1   0   1   1
+1975  The_Loring_AFB_Encounter                             USA            1   0   0   0
+1975  UFOs_Over_SAC_Bases_(Malmstrom)                      USA            1   0   0   0
+1975  The_Travis_Walton_Abduction                          USA            1   0   1   1
+1976  The_Stanford,_Kentucky_Abductions                    USA            1   0   1   1
+1976  The_Canary_Island_Alien_Sphere                       Spain          1   1   1   0
+1976  Tehran,_Iran_UFO_Incident                            Iran           1   0   0   0
+1976  The_Allagash_Waterway_Abductions                     USA            1   0   1   1
+1977  Alien_encounter,_Baltimore                           USA            1   0   1   0
+1977  UFOs_Invade_Colares_Island                           Brazil         1   1   0   0
+1977  UFO_Incident_at_Alsworth_AFB                         USA            1   0   1   0
+1978  Veteran_Pilot_Sees_Domed_UFO                         USA            0   0   0   0
+1978  Alien_Shot_Dead_Ft.Dix/McGuire_AFB                   USA            1   0   1   0
+1978  Australian_Pilot_(Valentich)_Disappears              Australia      1   0   0   0
+1978  New_Zealand_Encounter                                N Zealand      1   1   0   0
+1979  Alien_body_recovered                                 P. Rico        0   1   1   0
+1979  Russian_Cosmonaut_Sees_UFO                           Space          0   1   0   0
+1980  Aircraft_Disappears:_UFO_Seen                        P. Rico        0   0   0   0
+1980  The_Kirtland_AFB_Encounter                           USA            0   0   0   0
+1980  Rancher_sees_bizarre_UFO                             Australia      1   0   0   0
+1980  Bentwaters-Woodbridge_(Rendlesham)                   U K            1   1   1   0
+1980  Piney_Woods_(Cash-Landrum)_Encounter                 USA            1   0   0   0
+1981  Trans-en-Province_UFO_Landing                        France         0   0   0   0
+1981  The_Carlos_Diaz_Story                                Mexico         1   1   1   0
+1981  The_Hudson_Valley_Sightings                          USA            0   0   0   0
+1986  Japanese_Airline_Encounters_UFO                      Alaska         1   0   0   0
+1987  Connecticut,_Policeman_Photos_UFO                    USA            1   1   0   0
+1987  Hudson_Valley_Abduction                              USA            1   0   1   1
+1987  The_Christa_Tilton_Story                             USA            1   0   1   1
+1987  North_Canol_Road_Abduction                           Canada         1   0   1   1
+1987  The_Gulf_Breeze_Sightings_(Walters)                  USA            1   1   0   0
+1987  The_Ilkley_Moor_Alien                                U K            1   1   1   1
+1988  The_Eyre_Highway_Incident,_Australia                 Australia      1   0   0   0
+1988  John_Salter_and_Son_Abduction                        USA            1   0   1   1
+1988  Coast_Guard_UFO_Encounter                            USA            1   0   0   0
+1988  DNA_Sample/Khoury_Abduction                          Australia      1   0   1   1
+1988  The_Phobos_II_Incident                               Space          1   1   0   0
+1989  The_Belgian_UFO_Wave                                 Belgium        0   1   0   0
+1989  The_Voronezh,_Russia_Aliens                          Russia         1   0   1   0
+1989  Linda_Cortile-Napolitano_Abduction                   USA            1   0   1   1
+1989  Carp_Canada,_(Guardian)_Landing                      Canada         1   1   0   0
+1991  Shaitan_Mazar,_Russian_Crash_Retrieval               Russia         1   0   0   0
+1992  Florida_Patrolman_Encounters_UFO                     USA            1   0   0   0
+1993  Southaven_UFO_Crash                                  USA            1   0   0   0
+1993  The_Kelly_Cahill_Abduction                           Australia      1   0   1   1
+1994  UFO_Sightings_in_Holland,_Michigan                   USA            1   0   0   0
+1994  UFO_Photographed_in_Mongo,_Indiana                   USA            1   1   0   0
+1995  American_West_564_UFO_Encounter                      USA            0   0   0   0
+1995  UFO_Crash_in_Israel                                  Israel         1   1   0   0
+1996  The_Varginha,_Brazil_Entity                          Brazil         1   1   1   0
+1996  Alien_Body_Recovered                                 Russia         0   1   1   0
+1996  UFO_Photograph_Case,_Alabama                         USA            0   1   0   0
+1996  UFO_Photo_Hungary                                    Hungary        0   1   0   0
+1997  UFOs_merging_on_film                                 USA            0   1   0   0
+1997  St.Petersburg,_Russia_UFO                            Russia         0   1   0   0
+1997  The_Phoenix,_Arizona_Lights                          France         1   1   0   0
+1997  UFO_Encounter,_Boyne_Island                          U K            0   0   0   0
+1997  Swissair_jet/near_miss_UFO                           USA            0   1   0   0
+1997  South_Africa_UFO_Encounter                           S Africa       0   0   0   0
+1997  Abduction_in_Wales                                   Wales          1   0   1   1
+1999  Aliens_photographed_in_London                        U K            0   1   1   0
+1999  Jet_Crew_Encounters_UFO                              Den.           0   0   0   0
+1999  British_Charter_Encounters_UFO                       U K            0   0   0   0
+1999  UFO_Crash_in_Swedish_Lake                            Sweden         0   0   0   0
+1999  Abduction_in_Illinois                                USA            1   0   1   1
+2000  The_Illinois_Sightings                               USA            0   0   0   0
+2000  UFO_Photographed/Stinson_Lake                        USA            1   1   0   0
+2000  UFO_shoots_beam_at_photographer                      USA            1   0   0   0
+2000  UFO_landing_in_West_Malaysia                         Malaysia       1   0   0   0
+2000  The_Twin_Towers_UFO_Video(hoax)                      USA            1   1   0   0
+2000  UFO_Visits_Idaho_Mountain                            USA            0   0   0   0
+2001  Waynesville,_Ohio_Police_UFO_Report                  USA            0   0   0   0
+2002  Roswell_(General Ramey Memo)                         USA            0   1   0   0
+2002  Gulfport,_Mississippi_UFO_Incident                   USA            1   0   1   0
+2002  Trenton/Brookville_UFO_Sightings                     USA            1   0   0   0
+2002  Tyrone,_PA_Sighting_&_Photograph                     USA            0   1   0   0
+2002  The_Albany_Airport_UFO_Video                         USA            0   1   0   0
+2002  Rendlesham_Documents_released                        U K            0   0   0   0
+2002  The_Leyland,_Lancashire_Videos                       U K            0   1   0   0
+2002  Afyon,_Turkey_Sighting_with_Video                    Turkey         0   1   0   0
+2002  Possible_UFO_Landing,_Chile                          Chile          1   1   0   0
+2003  UFO_Photographed/Wisconsin                           USA            0   1   0   0
+2003  UFO_Video/Tennessee,_Shaffer                         USA            0   1   0   0
+2003  UFO_Incident,_Screaming_Sounds                       USA            1   0   0   0
+2003  Ashland,_Nebraska_UFO_Video                          USA            0   1   0   0
+2004  Amelia,_Ohio_Bizarre_UFO_Incident                    USA            1   0   0   0
+2004  Mexican_Military_Releases_UFO_Footage                Mexico         1   1   0   0
+2004  Centerville,_Ohio_UFO_Report                         USA            1   0   0   0
+2004  Close_Encounter_in_Tennessee                         USA            1   0   0   0
+2004  Northern_Ohio_Sightings                              USA            1   0   0   0
