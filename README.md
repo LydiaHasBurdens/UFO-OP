@@ -1,7 +1,7 @@
 # UFO-OP
 A project using processing to read in a dataset and display it using various visual means.
 
-Dataset:  ufocase.dat
+Dataset:  ufocase.txt (in the data folder)
 
 Source:  www.ufocasebook.com
 
