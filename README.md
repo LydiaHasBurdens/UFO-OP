@@ -33,3 +33,7 @@ I decided on the UP/DOWN controls for the menu. ENTER selects the graph and 0 br
 
 The only graph that changed from the initial plan is the person graph. There proved to be too many countries to split the people into, instead i left them in neat rows, same colour, but with different icons attached to them depending on what type of report they filed.
 
+![map_graph](https://cloud.githubusercontent.com/assets/14278814/11660136/9dece11e-9dc3-11e5-97b4-58581c7af144.jpg)
+![menu1](https://cloud.githubusercontent.com/assets/14278814/11660137/9dfd8f1e-9dc3-11e5-808e-8fe39f420ad8.jpg)
+![peoplegraph](https://cloud.githubusercontent.com/assets/14278814/11660134/9de20a6e-9dc3-11e5-9d73-923c7fc4b854.jpg)
+![trendufo](https://cloud.githubusercontent.com/assets/14278814/11660135/9de50688-9dc3-11e5-992c-2c50fc1f8a4d.jpg)
