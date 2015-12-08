@@ -25,3 +25,11 @@ Could take one of two forms:
 2. The three options are infront of the user angled in an arc with the user in the centre, the user uses the RIGHT and LEFT arrows to turn on the spot using enter to view the data in front of them.
 
 In both scenarios the space bar will return user to menu.
+
+
+#FINAL SUB
+
+I decided on the UP/DOWN controls for the menu. ENTER selects the graph and 0 brings you back to the menu.
+
+The only graph that changed from the initial plan is the person graph. There proved to be too many countries to split the people into, instead i left them in neat rows, same colour, but with different icons attached to them depending on what type of report they filed.
+
